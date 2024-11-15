@@ -11,7 +11,7 @@ Une application interactive pour gérer un zoo à l'aide d'une interface graphiq
 
 Voici une capture d'écran de l'interface graphique :
 
-![Vue de l'application Tkinter](img/Capture%20d%27%C3%A9cran%202024-11-15%20%C3%A0%2010.39.51.png)
+![Vue de l'application Tkinter](img/captur.png)
 
 ---
 
