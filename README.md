@@ -59,7 +59,7 @@ Voici une capture d'écran de l'interface graphique :
 1. Clonez ce dépôt :
 
    ```bash
-   git clone <URL_DU_DEPOT>
+   git clone https://github.com/Romcro/zoo.git
    cd zoo
    ```
 
